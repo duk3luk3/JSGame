@@ -1,0 +1,15 @@
+=JSGame=
+
+Because I can.
+
+==What==
+
+A chess server written with node.js and socket.io
+
+==Why==
+
+Because I wanted to check out node.js
+
+==How==
+
+Node.js server, sqlite backed user and game database, socket.io and DHTML client.
